@@ -1,6 +1,7 @@
 {
   "name": "string-generator",
   "version": "1.0.0",
+  "private": false,
   "description": "It's just a string generator",
   "main": "./src/index.js",
   "scripts": {
@@ -15,5 +16,5 @@
     "name": "Bhuvanesh Duvvuri",
     "email": "duvvuribhuvanesh@zohomail.in"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
